@@ -1,2 +1,2 @@
-# quotes-MOHAMED-BONKOKO--RAGAZZI-g-group
+# quotes-MOHAMED-BONKOKO--RAGAZZI-g
 TP introduction à github
